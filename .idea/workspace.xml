@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67c79246-bd1d-4793-b3ba-8ace1cc94093" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level2/q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level2/q2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/q4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,9 @@
     &quot;accountId&quot;: &quot;a5796519-f738-4b27-b54c-55b1d32771ff&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -55,7 +57,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "feature/level2-q2",
     "kotlin-language-version-configured": "true",
     "vue.rearranger.settings.migration": "true"
   }
