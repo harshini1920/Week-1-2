@@ -1,7 +1,7 @@
 package level1;
 
 public class q4 {
-    public static void main(String[] args) {
+    public static void main(String[] ignoredArgs) {
         double costPrice = 129;
         double sellingPrice = 191;
 
